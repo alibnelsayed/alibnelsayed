@@ -2,7 +2,7 @@
 
 # Hi, I'm Ali Elgharabawi 👋
 
-**Creative technologist in Riyadh: design, story and engineering in one person.**
+**Creative technologist in Saudi Arabia: design, story and engineering in one person.**
 
 I build websites, apps and automations for real businesses.
 
